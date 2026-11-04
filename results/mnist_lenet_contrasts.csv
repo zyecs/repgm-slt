@@ -1,0 +1,6 @@
+architecture,quantity,mean,q025,q975
+lenet,Delta_in,0.348008,0.348000,0.348087
+lenet,Delta_out,0.329333,0.329333,0.329333
+lenet,Delta_int,-0.287175,-0.287254,-0.287167
+lenet,Delta_train,0.501667,0.501667,0.501667
+lenet,untrained_risk,0.507500,0.507500,0.507500

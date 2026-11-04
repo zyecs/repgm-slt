@@ -1,0 +1,6 @@
+architecture,quantity,mean,q025,q975
+mlp,Delta_in,0.388125,0.384000,0.390333
+mlp,Delta_out,0.351429,0.349167,0.357667
+mlp,Delta_int,-0.310879,-0.317310,-0.308285
+mlp,Delta_train,0.425704,0.425667,0.426060
+mlp,untrained_risk,0.435537,0.435500,0.435894
