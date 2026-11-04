@@ -1,8 +1,8 @@
-# Understanding Model Reprogramming: A Reachability and Relabeling Perspective
+# On the Statistical Learnability of Model Reprogramming: A Reachability and Relabeling Perspective
 
 Code and precomputed artifacts for the NeurIPS 2026 paper:
 
-**Understanding Model Reprogramming: A Reachability and Relabeling Perspective**  
+**On the Statistical Learnability of Model Reprogramming: A Reachability and Relabeling Perspective**  
 Zesheng Ye, Pin-Yu Chen, and Feng Liu  
 *Advances in Neural Information Processing Systems (NeurIPS)*, 2026.
 
@@ -62,7 +62,7 @@ pytest -q
 
 ```bibtex
 @inproceedings{ye2026understanding,
-  title     = {Understanding Model Reprogramming: A Reachability and Relabeling Perspective},
+  title     = {On the Statistical Learnability of Model Reprogramming: A Reachability and Relabeling Perspective},
   author    = {Ye, Zesheng and Chen, Pin-Yu and Liu, Feng},
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year      = {2026}
